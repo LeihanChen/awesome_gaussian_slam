@@ -75,7 +75,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., SIGGRAPH 2023 | [📄 Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [💻 Code](https://github.com/graphdeco-inria/gaussian-splatting) | [🎥 Short Presentation](https://youtu.be/T_kXY43VZnk?si=DrkbDFxQAv5scQNT) | [🎥 Explanation Video](https://www.youtube.com/live/xgwvU7S0K-k?si=edF8NkYtsRbgTbKi)
 <br>
 
+
 ## Survey:
+- **The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey**, Tu et al., arXiv 2025  | [📄 Paper](https://arxiv.org/abs/2502.10498) | [🌐 Project Page](https://github.com/LMD0311/Awesome-World-Model)
+
 - **Embodied Intelligence for 3D Understanding: A Survey on 3D Scene Question Answering**, Li et al., arXiv 2025  | [📄 Paper](https://arxiv.org/abs/2502.00342)
 
 - **Scene reconstruction techniques for autonomous driving: a review of 3D Gaussian splatting**, Zhu et al., Artificial Intelligence Review 2024 | [📄 Paper](https://link.springer.com/content/pdf/10.1007/s10462-024-10955-4.pdf)
@@ -84,13 +87,14 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**, Tosi et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2402.13255)
 
-- **3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**, Chen et al., TPAMI 2024 | [📄 Paper](https://arxiv.org/pdf/2407.17418.pdf)[🌐 Project Page](https://github.com/qqqqqqy0227/awesome-3DGS)
+- **3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**, Chen et al., TPAMI 2024 | [📄 Paper](https://arxiv.org/pdf/2407.17418.pdf) | [🌐 Project Page](https://github.com/qqqqqqy0227/awesome-3DGS)
 
 - **3D Gaussian as a New Vision Era: A Survey**, Fei et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2402.07181.pdf)
 
 - **Recent Advances in 3D Gaussian Splatting**, Wu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.11134.pdf)
 
 - **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**, Dalal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.03417.pdf)
+
 
 ## Gaussian Optimization:
 ## 2025:
@@ -144,6 +148,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**, Yu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.15633) | [🌐 Project Page](https://3dagentworld.github.io/opengs-slam/) | [💻 Code](https://github.com/3DAgentWorld/OpenGS-SLAM)
+
 - **DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.09111) 
 
 - **PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**, Pan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.05752) | [🌐 Project Page]() | [💻 Code](https://github.com/PRBonn/PINGS)
@@ -198,7 +204,6 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**, Lang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2404.06926.pdf)
 
 ## 2023:
-
 - **[CVPR '24] GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**, Yan et al., arXiv 2023 | [📄 Paper](https://arxiv.org/pdf/2311.11700.pdf) | [🌐 Project Page](https://gs-slam.github.io/)
 
 - **[CVPR '24] SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**, Keetha et al., arXiv 2023 | [📄 Paper](https://arxiv.org/pdf/2312.02126.pdf) | [🌐 Project Page](https://spla-tam.github.io/) | [💻 Code](https://github.com/spla-tam/SplaTAM) | [🎥 Explanation Video](https://www.youtube.com/watch?v=35SX8DTdQLs)
@@ -244,6 +249,9 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 
 ## Large Scale:
+## 2025:
+- **OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**, Shen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.14235)
+
 ## 2024:
 - **GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**, Zuo et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.10373) | [💻 Code](https://github.com/zuosc19/GaussianWorld)
 
@@ -347,6 +355,8 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 ## 3D Generations:
 ## 2025:
+- **TANGLED: Generating 3D Hair Strands from Images with Arbitrary Styles and Viewpoints**, Long et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.06392) | [🌐 Project Page](https://sites.google.com/view/tangled1) | [💻 Code]() | [🎥 Video](https://www.youtube.com/watch?v=msigozrOV7U) 
+
 - **Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**, Zhao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.12202) | [🌐 Project Page](https://3d-models.hunyuan.tencent.com/) | [💻 Code](https://github.com/Tencent/Hunyuan3D-2) | [🎥 Demo](https://huggingface.co/spaces/tencent/Hunyuan3D-2) 
 
 - **Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**, Krishnan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.13087v1) | [🌐 Project Page](https://orchid3d.github.io/) | [💻 Code]()
