@@ -407,6 +407,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 - **PanoDreamer: 3D Panorama Synthesis from a Single Image**, Paliwal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.04827) | [💻 Code](https://github.com/avinashpaliwal/PanoDreamer) | [🌐 Project Page](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer/index.html) | [🎥 Video](https://www.youtube.com/watch?v=EyVfFCg4aF8) 
 
+- **[CVPR' 25]StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**, He et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.05738) | [🌐 Project Page](https://stdgen.github.io/ | [💻 Code](https://github.com/hyz317/StdGEN) | [🎥 Demo](https://huggingface.co/spaces/hyz317/StdGEN)
+
 - **[NeurIPS' 24]GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping**, Seo et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2405.17251) | [🌐 Project Page](https://genwarp-nvs.github.io/) | [💻 Code](https://github.com/sony/genwarp) | [🎥 Demo](https://huggingface.co/spaces/Sony/genwarp)
 
 - **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.18608) | [🌐 Project Page](https://silent-chen.github.io/PartGen/) | [💻 Code]() | [🎥 Explanation Video](https://www.youtube.com/watch?v=Ma_Nk85L3d4)
