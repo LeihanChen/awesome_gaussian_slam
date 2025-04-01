@@ -93,11 +93,20 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **Recent Advances in 3D Gaussian Splatting**, Wu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.11134.pdf)
 
+- **How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**, Tosi et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2402.13255)
+
 - **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**, Dalal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.03417.pdf)
 
+- **Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey**, Liao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.14537)
 
 ## Gaussian Optimization:
 ## 2025:
+- **ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs**, Song et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.00437) | [🌐 Project Page](https://maggiesong7.github.io/research/ADGaussian/) | | [💻 Code]()
+
+- **[ICLR '25]CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression**, Zhan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.00357) | [🌐 Project Page]() | | [💻 Code]()
+
+- **[CVPR '25]COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.19443) | [🌐 Project Page]() | | [💻 Code](https://github.com/ZestfulJX/COB-GS)
+
 - **[CVPR '25]BG-Triangle: Bézier Gaussian Triangle for 3D Vectorization and Rendering**, Wu et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2503.13961) | [🌐 Project Page](https://wuminye.github.io/projects/BGTriangle/) | | [💻 Code](https://github.com/wuminye/bg-triangle)
 
 - **[CVPR '25]DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.18402) | [🌐 Project Page](https://dashgaussian.github.io/) | | [💻 Code]()
@@ -302,6 +311,12 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
+- **GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**, Zhou et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.05161v1) | [🌐 Project Page]() | | [💻 Code]()
+
+- **MTGS: Multi-Traversal Gaussian Splatting**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.12552) | [🌐 Project Page]() | | [💻 Code]()
+
+- **Amodal3R: Amodal 3D Reconstruction from Occluded 2D Images**, Wu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.13439) | [💻 Code]() | [🌐 Project Page](https://sm0kywu.github.io/Amodal3R/) | [🤗 Demo](https://huggingface.co/spaces/Sm0kyWu/Amodal3R)
+
 - **[CVPR '25] VGGT: Visual Geometry Grounded Transformer**, Wang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.12894) | [💻 Code](https://github.com/facebookresearch/vggt) | [🌐 Project Page](https://vgg-t.github.io/) | [🤗 Demo](https://huggingface.co/spaces/facebook/vggt)
 
 - **[CVPR '25] BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting**, Lu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.12894) | [💻 Code](https://github.com/vulab-AI/BARD-GS) | [🌐 Project Page](https://vulab-ai.github.io/BARD-GS/)
@@ -388,6 +403,10 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning**, Zhao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.15265) | [💻 Code](https://github.com/zhaorw02/DeepMesh) | [🌐 Project Page](https://zhaorw02.github.io/DeepMesh/) | [🎥 Video](https://www.youtube.com/watch?v=6grL7bSbQ2w)
+
+- **Controllable 3D Outdoor Scene Generation via Scene Graphs**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.07152) | [💻 Code](https://github.com/yuhengliu02/control-3d-scene) | [🌐 Project Page](https://yuheng.ink/project-page/control-3d-scene/)
+
 - **GAS: Generative Avatar Synthesis from a Single Image**, Lu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.06957) | [💻 Code](https://github.com/humansensinglab/GAS) | [🌐 Project Page](https://humansensinglab.github.io/GAS/)
 
 - **FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.13265) | [💻 Code](https://github.com/ML-GSAI/FlexWorld) | [🌐 Project Page](https://ml-gsai.github.io/FlexWorld/)
@@ -437,7 +456,13 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 - **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.18608) | [🌐 Project Page](https://silent-chen.github.io/PartGen/) | [💻 Code]() | [🎥 Explanation Video](https://www.youtube.com/watch?v=Ma_Nk85L3d4)
 
+- **[CVPR '25]Generative Gaussian Splatting for Unbounded 3D City Generation**, Xie et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.06526) | [🌐 Project Page](https://www.infinitescript.com/project/gaussian-city/) | [💻 Code](https://github.com/hzxie/GaussianCity) | [🤗 Demo](https://huggingface.co/spaces/hzxie/gaussian-city) | [🎥Video](https://www.youtube.com/watch?v=anDwIXlfjUA)
+
 - **[ECCV '24]SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**, Mihajlovic et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2409.11211) | [🌐 Project Page](https://markomih.github.io/SplatFields/) | [💻 Code](https://github.com/markomih/SplatFields)
+
+- **LaRa: Efficient Large-Baseline Radiance Fields**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2407.04699) | [🌐 Project Page](https://apchenstu.github.io/LaRa/) | [💻 Code](https://github.com/autonomousvision/LaRa)
+
+- **Real3D: Scaling Up Large Reconstruction Models with Real-World Images**, Jiang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.08479) | [🌐 Project Page](https://hwjiang1510.github.io/Real3D/) | [💻 Code](https://github.com/hwjiang1510/Real3D) | [🤗 Demo](https://huggingface.co/spaces/hwjiang/Real3D)
 
 - **CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**, Wu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.12096) | [🌐 Project Page](https://cat-4d.github.io/) | [💻 Code](https://github.com/aigc3d/AniGS)
 
