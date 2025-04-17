@@ -417,6 +417,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**, Wei et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.11218) | [💻 Code](https://github.com/HCPLab-SYSU/3DAffordSplat) | [🤗 Data]()
+
 - **[CVPR '25] GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**, Ren et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.03751) | [💻 Code]() | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
 
 - **[CVPR '25] PhysGen3D: Crafting a Miniature Interactive World from a Single Image**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.20746) | [💻 Code](https://github.com/by-luckk/PhysGen3D) | [🌐 Project Page](https://by-luckk.github.io/PhysGen3D/)
