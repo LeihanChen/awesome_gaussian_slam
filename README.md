@@ -103,6 +103,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **[ICRA '25]R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections**, Yan et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.15294) | [🌐 Project Page]() | | [💻 Code]()
+
 - **[CVPRW '25]SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**, Jena et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.02175) | [🌐 Project Page](https://shubhendu-jena.github.io/SparSplat/) | | [💻 Code](https://github.com/Shubhendu-Jena/SparSplat)
 
 - **[CVPR '25]Steepest Descent Density Control for Compact 3D Gaussian Splatting**, Wang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.05587) | [🌐 Project Page](https://vita-group.github.io/SteepGS/) | | [💻 Code]()
@@ -454,6 +456,10 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **[TECHINICAL REPORT] Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.07747) | [💻 Code](https://github.com/stepfun-ai/Step1X-3D) | [🌐 Project Page](https://stepfun-ai.github.io/Step1X-3D/) | [🤗 Demo](https://huggingface.co/spaces/stepfun-ai/Step1X-3D)
+
+- **[SIGGRAPH '25] 3D-Fixup: Advancing Photo Editing with 3D Priors**, Cheng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.10566) | [💻 Code]() | [🌐 Project Page](https://3dfixup.github.io/)
+
 - **Bolt3D: Generating 3D Scenes in Seconds**, Szymanowicz et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.14445) | [💻 Code]() | [🌐 Project Page](https://szymanowiczs.github.io/bolt3d)
 
 - **Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**, Ling et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.02836) | [💻 Code]() | [🌐 Project Page](https://research.nvidia.com/labs/dir/scenethesis/)
